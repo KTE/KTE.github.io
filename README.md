@@ -1,4 +1,4 @@
-# [`github.com/KTE/repositories`](https://github.com/KTE/repositories)
+# [`github.com/KTE`](https://github.com/KTE)
 
 ---
 
